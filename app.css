@@ -1,0 +1,28 @@
+body {
+    /* margin: none; */
+    /* padding: none; */
+    /* display: flex; */
+    width: 100%;
+    max-width: 500px;
+    margin: 100px auto;
+    align-items: center;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  input,
+  select {
+    width: 250px;
+    height: 40px;
+    border: 1px solid lightblue;
+    margin: 10px;
+  }
+  
+  input {
+    outline: none;
+  }
+  
+  select {
+    width: 200px;
+    margin-left: 10px;
+  }
+  
